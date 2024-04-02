@@ -81,7 +81,7 @@ def animate_choices(user_choice, computer_choice, result):
 
 # Function to show the About page
 def show_about():
-    about_text = "Rock-Paper-Scissors Game\nVersion 1.0\n\nCreated by Anmol Yaseen\n© 2023"
+    about_text = "Rock-Paper-Scissors Game\nVersion 1.0\n\nCreated by Irfan Ullah Khan\n© 2022"
     messagebox.showinfo("About", about_text)
 
 # Function to show the User Guide
